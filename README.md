@@ -32,6 +32,6 @@ Adaptive streaming dynamically adjusts the quality of the video based on the vie
 ### **Comparison of Protocols:**
 - **Latency:** RTMP often has the lowest latency, suitable for real-time interactions.
 - **Adaptability:** HLS and DASH excel in adapting to varying network conditions.
-- **Browser Compatibility:** HLS is widely supported, while DASH is more adaptable but may require additional configurations.
+- **Browser Compatibility:** HLS is widely supported, while DASH is more adaptable but it require additional configurations.
 
 
